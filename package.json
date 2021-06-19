@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "TeamPBLauncher - 最強ランチャー",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
-  "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "productName": "TeamPBLauncher",
+  "description": "とってもとっても便利なマイクラランチャーです",
+  "author": "amaren / curena",
+  "license": "amaren / curena",
+  "homepage": "https://discordpartys.github.io/hub/",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "ttps://discordpartys.github.io/hub/"
   },
   "private": true,
   "main": "index.js",
